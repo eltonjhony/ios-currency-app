@@ -1,0 +1,13 @@
+.DS_Store
+/**/xcuserdata/
+Pods/
+upload_dsym_results
+Build/**
+Index/**
+Logs/**
+TestResults/**
+.scannerwork/**
+ModuleCache.noindex/**
+UniversalFramework/
+**/*.xcarchive
+eur-currency-appUITests/Snapshots/FailureDiffs

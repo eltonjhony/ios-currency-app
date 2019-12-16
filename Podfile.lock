@@ -1,0 +1,28 @@
+PODS:
+  - iOSSnapshotTestCase (5.0.2):
+    - iOSSnapshotTestCase/SwiftSupport (= 5.0.2)
+  - iOSSnapshotTestCase/Core (5.0.2)
+  - iOSSnapshotTestCase/SwiftSupport (5.0.2):
+    - iOSSnapshotTestCase/Core
+  - Swifter (1.4.7)
+  - Swinject (2.7.1)
+
+DEPENDENCIES:
+  - iOSSnapshotTestCase
+  - Swifter (~> 1.4.5)
+  - Swinject
+
+SPEC REPOS:
+  trunk:
+    - iOSSnapshotTestCase
+    - Swifter
+    - Swinject
+
+SPEC CHECKSUMS:
+  iOSSnapshotTestCase: 2d51aa06775e95cecb0a1fb9c5c159ccd1dd4596
+  Swifter: 2327ef5d872c638aebab79646ce494af508b0c8f
+  Swinject: ddf78b8486dd9b71a667b852cad919ab4484478e
+
+PODFILE CHECKSUM: 27316e93904906e4b10bace2fb6db639e4c3a9df
+
+COCOAPODS: 1.8.4

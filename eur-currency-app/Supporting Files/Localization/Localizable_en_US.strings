@@ -1,0 +1,13 @@
+/* 
+  Localizable_en_US.strings
+  eur-currency-app
+
+  Created by Elton Jhony Romao de Oliveira on 15/12/19.
+  Copyright © 2019 EurCurrencyApp. All rights reserved.
+*/
+
+"appTitle" = "EURO COTATION";
+"euroSymbol" = "€";
+"currencySymbol" = "$";
+"calculateLabel" = "Calculate";
+"closeLabel" = "Close";
